@@ -1,4 +1,4 @@
-Discord ID To Token
+# Discord ID To Token
 
 > ⚠️ **Disclaimer**: This project is intended strictly for educational purposes only. Do **not** use this tool against any real user or service. Doing so may result in violation of terms of service and legal action. You are fully responsible for how you use this code.
 
